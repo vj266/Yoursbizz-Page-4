@@ -1,0 +1,174 @@
+body{
+    margin-left:0px;
+    margin-right:0px;
+    position: static;
+    }
+    
+
+.rc1{
+    width:100%;
+    height:91px;
+    position:absolute;
+    left:0px;
+    top:0px;
+    right:0px;
+    background-color: #F0F1F3;
+}
+.bmt{
+    position:absolute;
+    left:772px;
+    top:35px;
+    color: #E5E5E5;
+    cursor: pointer;
+}
+input{
+        
+    height:28px;
+    width:90%;
+    padding:0px 9px;
+}
+.man{
+    position:absolute;
+    left:435px;
+    width:350px;
+    height:15px;
+    top:35px;
+    
+    }
+    #a{
+        position:absolute;
+        left:910px;
+        top:48px;
+        cursor: pointer;
+    } 
+    #b{
+        position:absolute;
+        top:48px;
+        right:335px;
+    }
+    #c{
+        position: absolute;
+        left:1025px;
+        top:52px;
+        cursor: pointer;
+    }
+    #d{
+        position: absolute;
+        right:200px;
+        top:48px;
+    }
+    .bt{
+        color:black;
+        position:absolute;
+        right:150px;
+        top:46px;
+        cursor: pointer;
+    }
+    .mmw{
+        position:absolute;
+        left:184px;
+        top:22px;
+    }
+    .lkl{
+        position:absolute;
+        left:143px;
+        top:45px;
+    }
+    .ffr{
+        position:absolute;
+        left:150px;
+        top:22px;
+    }
+    .kll{
+        position:absolute;
+        left:50px;
+        top:24px;
+    }
+
+
+ .rc2{
+    width:100%;
+    height:61px;
+    margin-top: 91px;
+    background-color:#233A6C;
+    position:absolute;
+    font-style: normal;
+    font-weight: 200;
+    left:0px;
+    top:0px;
+    right:0px;
+    text-align: center;
+}
+
+.navbar li{
+    color:white;
+    display:inline-block;
+}
+.navbar li a{
+    color:white;
+    text-decoration: none;
+    padding: 34px 23px;
+    display: inline;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    }
+
+.navbar li a:hover{
+    text-decoration: black;
+}
+.rc3 img{
+    position:absolute;
+    width:100%;
+    top:152px;
+}
+.rm3 img{
+    position:absolute;
+    width:50%;
+    top:310px;
+    left:360px;
+}
+.rc4 img{
+    width:100%;
+}
+.rc5 img{
+    width:50%;
+    position:absolute;
+    top:900px;
+    left:320px;
+}
+.rc6 img{
+    position:absolute;
+    top:580px;
+    left:880px;
+}
+.rc7 img{
+    position:absolute;
+    top:1000px;
+    left:340px;
+}
+.rc8 img{
+    position:absolute;
+    top:760px;
+    left:220px;
+}
+.pb{
+    position:absolute;
+    left:377px;
+    top:35px;
+}
+.pb1{
+    position:absolute;
+    top:7px;
+    left:12px;
+    cursor: pointer;
+}
+.pb2{
+    position:absolute;
+    top:6px;
+    left:32px;
+    cursor: pointer;
+}
+
+
+ 
